@@ -17,6 +17,7 @@
 ![alt text](image-5.png)
 
 Пример работы с агентом:
+
 ![alt text](image-6.png)
 ---
 
@@ -45,5 +46,6 @@
 ![alt text](image-1.png)
 
 Метрики качества после аугментации данных:
+
 ![alt text](image.png)
 ---
